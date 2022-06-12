@@ -1,2 +1,2 @@
-# WeatherToday
+# WeatherApp
 Created with CodeSandbox
